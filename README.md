@@ -1,7 +1,7 @@
 ### 👨‍💻 **Me**
 I am Eduardo Sahaidak
 - 🎬 Filmaker: Edição de vídeos e Fotos
-- 🔭 Atualmente cursando **Engenharia de Software**
+- 💻 Atualmente cursando **Engenharia de Software**
 - 🎯 Objetivo: Gerência de Softwares e Projetos (Scrum Master)
   
 ---
@@ -15,7 +15,7 @@ I am Eduardo Sahaidak
 
 ---
 
-### 🛠 **Já Brinquei com**
+### ⚙️ **Já Brinquei com**
 <div style="display: flex; gap: 8px; flex-wrap: wrap;">
 <img src=(https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
