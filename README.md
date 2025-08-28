@@ -10,7 +10,7 @@ I am Eduardo Sahaidak
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/eduardo-sahaidak-368946228)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sahadekd?igsh=MWFvbmxjcm02cTc4ZQ==)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahadekd)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Sahadekd)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Sahadekd) <-- Dá pra chamar de Portifólio?🧐
 
 
 ---
@@ -28,29 +28,26 @@ I am Eduardo Sahaidak
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=Canva&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </div>
+
 ---
 
-### 📊 **GitHub Stats**
+### ⭐ **MPV**
+Usado no FlashClip 2025:
+- [🍄 Mario Jump](https://github.com/Sahadekd/Mario-Type---Flashclip-2025-1)
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahadekd&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahadekd&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
 </p>
 
 ---
 
-### 🚀 **Projetos em Destaque**
-Usado no FlashClip 2025:
-- [📌 Mario Jump](https://github.com/Sahadekd/Mario-Type---Flashclip-2025-1)
-  
----
-
-![Quote](https://img.shields.io/badge/Reject%20AI-return%20to%20I%20Need%20More%20Coffee-orange?style=for-the-badge)
 <p align="center">
   <b>☕ "Reject AI, return to I Need More Coffee"</b>
-</p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
 
-Perfil ainda em construção, quem sabe um dia não estará cheio de commits...
+**Perfil ainda em construção, quem sabe um dia não estará cheio de commits...**
