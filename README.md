@@ -37,9 +37,11 @@ Usado no FlashClip 2025:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahadekd&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
-</p>
+## 🐍 Ó a cobrinha
+
+![snake gif](https://github.com/Sahadekd/Sahadekd/blob/output/snake.svg)
+
+
 
 ---
 
@@ -50,4 +52,6 @@ Usado no FlashClip 2025:
 
 ---
 
+<p align="center">
 **Perfil ainda em construção, quem sabe um dia não estará cheio de commits...**
+</p>
