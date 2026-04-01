@@ -2,7 +2,7 @@
 I am Eduardo Sahaidak
 - 💻 Atualmente cursando **Engenharia de Software**
 - 🎯 Objetivo: Gerência de Softwares e Projetos (Scrum Master)
-- 🖱️ Programador Júnior - Low Code, N8M, Saas
+- 🖱️ Programador Júnior - Low Code, N8N, Saas
   
 ---
 
@@ -21,7 +21,7 @@ I am Eduardo Sahaidak
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=flat" />
+<img src="https://img.shields.io/badge/Workflow-Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </div>
