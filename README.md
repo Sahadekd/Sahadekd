@@ -62,8 +62,6 @@ Plataforma completa focada em automação e visualização de dados
   <b>☕ "Reject AI, return to I Need More Coffee"</b>
 </p>
 
----
-
 <p align="center">
   <i>Perfil em construção... mas os commits não param 🚀</i>
 </p>
