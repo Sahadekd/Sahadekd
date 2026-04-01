@@ -60,8 +60,6 @@ Plataforma completa focada em automação e visualização de dados
 
 <p align="center">
   <b>☕ "Reject AI, return to I Need More Coffee"</b>
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
