@@ -64,6 +64,7 @@ Plataforma completa focada em automação e visualização de dados
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
+
 <p align="center">
   <i>Perfil em construção... mas os commits não param 🚀</i>
 </p>
